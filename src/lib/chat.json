@@ -9,7 +9,6 @@
 		{ "time": 12000, "duration": 500, "type": "response", "content": "아-" },
 		{ "time": 12500, "duration": 1222, "type": "response", "content": "마이크 테스트, 테스트" },
 		{ "time": 13722, "duration": 1433, "type": "response", "content": "특정하지 말아주세요." },
-		{ "time": 15377, "duration": 500, "type": "response", "content": "「익명M」" },
 		{ "time": 15877, "duration": 1005, "type": "call", "content": "좋아하는 음식은?" },
 		{
 			"time": 16882,
