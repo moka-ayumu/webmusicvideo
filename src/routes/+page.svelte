@@ -168,7 +168,7 @@
 		{/if}
 	</div>
 </div>
-<a href={`${base}/license`} class="license"> License </a>
+<a href="./license" class="license"> License </a>
 
 <style lang="scss">
 	:global(.AnonymousMType) {
