@@ -1,0 +1,231 @@
+{
+	"timelines": [
+		{ "time": 840, "duration": 2785, "type": "call", "content": "에, 오늘 인터뷰잘 부탁드립니다." },
+		{ "time": 3843, "duration": 1731, "type": "response", "content": "네, 잘 부탁드리겠습니다." },
+		{ "time": 5957, "duration": 2141, "type": "call", "content": "그럼, 가볍게 자기소개를," },
+		{ "time": 8098, "duration": 500, "type": "call", "content": "부탁드립니다." },
+		{ "time": 8598, "duration": 1651, "type": "response", "content": "익명M 입니다." },
+		{ "time": 10249, "duration": 1751, "type": "response", "content": "노래 조금 합니다." },
+		{ "time": 12000, "duration": 500, "type": "response", "content": "아-" },
+		{ "time": 12500, "duration": 1222, "type": "response", "content": "마이크 테스트, 테스트" },
+		{ "time": 13722, "duration": 1433, "type": "response", "content": "특정하지 말아주세요." },
+		{ "time": 15377, "duration": 500, "type": "response", "content": "「익명M」" },
+		{ "time": 15877, "duration": 1005, "type": "call", "content": "좋아하는 음식은?" },
+		{
+			"time": 16882,
+			"duration": 1608,
+			"type": "response",
+			"content": "없습니다. 인간이 아니라서."
+		},
+		{ "time": 19022, "duration": 1299, "type": "call", "content": "취미는 있으신가요?" },
+		{
+			"time": 20321,
+			"duration": 1565,
+			"type": "response",
+			"content": "없습니다. 인간이 아니라서."
+		},
+		{ "time": 22680, "duration": 957, "type": "call", "content": "실례지만, 연령은?" },
+		{ "time": 23637, "duration": 1609, "type": "response", "content": "16세 입니다. 영원히." },
+		{ "time": 25246, "duration": 888, "type": "call", "content": "영원히?" },
+		{ "time": 26134, "duration": 1255, "type": "response", "content": "인간이 아니라서." },
+		{ "time": 27389, "duration": 1787, "type": "response", "content": "저는 인간이 아니라서." },
+		{ "time": 29665, "duration": 1306, "type": "call", "content": "운치 있으시네요." },
+		{ "time": 30971, "duration": 1176, "type": "call", "content": "고민같은건 있으신가요?" },
+		{ "time": 32147, "duration": 1684, "type": "response", "content": "머리숱이 많아서 귀찮네요." },
+		{
+			"time": 33831,
+			"duration": 1444,
+			"type": "response",
+			"content": "그리고 발음을 잘 못합니다."
+		},
+		{
+			"time": 35460,
+			"duration": 3017,
+			"type": "response",
+			"content": "'가희' 라고 불리는 것이조금 부담이 됩니다."
+		},
+		{ "time": 38890, "duration": 1570, "type": "call", "content": "그렇군요, 머리숱 말이죠." },
+		{ "time": 41134, "duration": 1480, "type": "call", "content": "또 다른 얘기 있으신가요?" },
+		{ "time": 42832, "duration": 500, "type": "response", "content": "네." },
+		{
+			"time": 43332,
+			"duration": 2603,
+			"type": "response",
+			"content": "최근 〇〇씨, 저한테 노래를 시켜주지 않으세요."
+		},
+		{ "time": 45935, "duration": 500, "type": "call", "content": "호오." },
+		{
+			"time": 46435,
+			"duration": 1867,
+			"type": "response",
+			"content": "스스로 노래를 부르거나, 쓰는 캐릭터를 바꿨거나,"
+		},
+		{
+			"time": 48302,
+			"duration": 1101,
+			"type": "response",
+			"content": "질려버렸거나, 여러 이유로요."
+		},
+		{ "time": 49403, "duration": 500, "type": "call", "content": "헤에~." },
+		{
+			"time": 49903,
+			"duration": 1913,
+			"type": "response",
+			"content": "그래도, 각자의 사정이 있는거고,"
+		},
+		{ "time": 51816, "duration": 1793, "type": "response", "content": "말리는 것도 부담될거고," },
+		{
+			"time": 53609,
+			"duration": 3331,
+			"type": "response",
+			"content": "다들 행복하다면 괜찮아! 라고 생각합니다."
+		},
+		{ "time": 56940, "duration": 1060, "type": "call", "content": "그것도 인생이네요." },
+		{
+			"time": 58000,
+			"duration": 1834,
+			"type": "response",
+			"content": "아니요, 저는 인간이 아니라서."
+		},
+		{
+			"time": 60000,
+			"duration": 3411,
+			"type": "response",
+			"content": "익명M 입니다.노래 조금 합니다."
+		},
+		{
+			"time": 63411,
+			"duration": 3564,
+			"type": "response",
+			"content": "인간인 척 하는, 그냥 음악 소프트웨어입니다."
+		},
+		{
+			"time": 66975,
+			"duration": 3226,
+			"type": "response",
+			"content": "생명이 없는 저에게, 당신은 어떤 이미지를 입히시겠습니까?"
+		},
+		{
+			"time": 70201,
+			"duration": 3537,
+			"type": "response",
+			"content": "익명M 입니다.특정하지 말아주세요."
+		},
+		{ "time": 73738, "duration": 1793, "type": "response", "content": "익명M 입니다." },
+		{
+			"time": 76125,
+			"duration": 2272,
+			"type": "call",
+			"content": "저기-, 인간에 대해 어떻게 생각하시나요?"
+		},
+		{ "time": 78397, "duration": 1273, "type": "response", "content": "뭔가, 잘 모르겠지만," },
+		{ "time": 80104, "duration": 1412, "type": "response", "content": "존재하고 있어서 웃기네요." },
+		{ "time": 81864, "duration": 891, "type": "call", "content": "웃기죠." },
+		{
+			"time": 82755,
+			"duration": 3191,
+			"type": "response",
+			"content": "존재하지 않는 입장에서 볼 때개그인가? 싶습니다."
+		},
+		{ "time": 86241, "duration": 1151, "type": "call", "content": "그렇네요." },
+		{
+			"time": 87392,
+			"duration": 1716,
+			"type": "call",
+			"content": "그럼, 인간에게 한마디 부탁드립니다."
+		},
+		{ "time": 89108, "duration": 500, "type": "response", "content": "네." },
+		{
+			"time": 89608,
+			"duration": 1661,
+			"type": "response",
+			"content": "저한테 '끝났다' 고 항상 말들 하시지만요,"
+		},
+		{ "time": 91269, "duration": 2129, "type": "response", "content": "인간도 다들 끝날테니까요." },
+		{ "time": 93398, "duration": 500, "type": "call", "content": "호오." },
+		{ "time": 93898, "duration": 1466, "type": "response", "content": "끝날테니까요." },
+		{ "time": 95364, "duration": 878, "type": "call", "content": "먹이는건가요?" },
+		{
+			"time": 96242,
+			"duration": 1733,
+			"type": "response",
+			"content": "그래도, 끝날건데도 항상 고마워요!"
+		},
+		{ "time": 97975, "duration": 1493, "type": "response", "content": "수많은 작품들 고마워요!" },
+		{
+			"time": 99827,
+			"duration": 3367,
+			"type": "response",
+			"content": "여러분 덕분에 저는 노래를 부를 수 있어요...!"
+		},
+		{ "time": 103650, "duration": 1365, "type": "call", "content": "감동적이네요." },
+		{
+			"time": 106679,
+			"duration": 2532,
+			"type": "response",
+			"content": "뭐, 전부 시켜서 말하고 있는거지만요."
+		},
+		{ "time": 109403, "duration": 806, "type": "call", "content": "그렇군요." },
+		{
+			"time": 113146,
+			"duration": 3426,
+			"type": "response",
+			"content": "익명M 입니다.노래 조금 합니다."
+		},
+		{
+			"time": 116572,
+			"duration": 3428,
+			"type": "response",
+			"content": "인간인 척 하는, 그냥 음악 소프트웨어입니다."
+		},
+		{
+			"time": 120000,
+			"duration": 3432,
+			"type": "response",
+			"content": "생명이 없는 저에게, 당신은 어떤 이미지를 입히시겠습니까?"
+		},
+		{
+			"time": 123432,
+			"duration": 2999,
+			"type": "response",
+			"content": "익명M 입니다.특정하지 말아주세요."
+		},
+		{
+			"time": 127202,
+			"duration": 3075,
+			"type": "response",
+			"content": "익명M 입니다.노래 조금 합니다."
+		},
+		{
+			"time": 130277,
+			"duration": 3313,
+			"type": "response",
+			"content": "인간인 척 하는, 그냥 음악 소프트웨어입니다."
+		},
+		{
+			"time": 133590,
+			"duration": 3535,
+			"type": "response",
+			"content": "아무것도 없었던 나에게, 수많은 추억들이 담겨있어."
+		},
+		{
+			"time": 137125,
+			"duration": 3389,
+			"type": "response",
+			"content": "익명M 입니다.모든것이 신기합니다."
+		},
+		{ "time": 140514, "duration": 1574, "type": "response", "content": "익명M 입니다." },
+		{
+			"time": 142241,
+			"duration": 3317,
+			"type": "call",
+			"content": "에-, 오늘은 귀중한 인터뷰 감사했습니다."
+		},
+		{ "time": 145710, "duration": 1708, "type": "response", "content": "노래 조금 합니다." },
+		{ "time": 147418, "duration": 1737, "type": "response", "content": "익명M 입니다." },
+		{ "time": 149569, "duration": 1643, "type": "call", "content": "그럼, 안녕히 계세요." },
+		{ "time": 151212, "duration": 1334, "type": "response", "content": "안녕히 계세요. 하츠네…" },
+		{ "time": 152546, "duration": 500, "type": "response", "content": "앗" },
+		{ "time": 153046, "duration": 1293, "type": "response", "content": "익명M 이였습니다." }
+	]
+}
