@@ -6,6 +6,7 @@
 	import { tick } from 'svelte';
 	import { createDiffer } from '$lib/util';
 	import { fade } from 'svelte/transition';
+	import { base } from '$app/paths';
 	let lastChatIndex = -1;
 	const nowChatIndex = createDiffer();
 	const typePos = createDiffer();
@@ -167,7 +168,7 @@
 		{/if}
 	</div>
 </div>
-<a href="license" class="license"> License </a>
+<a href={`${base}/license`} class="license"> License </a>
 
 <style lang="scss">
 	:global(.AnonymousMType) {
